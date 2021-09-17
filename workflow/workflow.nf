@@ -1,6 +1,6 @@
 #!/usr/bin/env nextflow
 
-params.inputspectra = ''
+params.inputspectra = 'data/GNPS00002_A3_p.mzML'
 params.workflowParameters = ''
 
 params.type = ''
