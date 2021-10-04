@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
-<interface id="template_workflow" version="1.2.8">
-    <workflow-id>TEMPLATE_WORKFLOW</workflow-id>
-    <workflow-label>TEMPLATE_WORKFLOW</workflow-label>
+<interface id="template_nf_workflow" version="1.2.8">
+    <workflow-id>TEMPLATE_NF_WORKFLOW</workflow-id>
+    <workflow-label>TEMPLATE_NF_WORKFLOW</workflow-label>
 
     <!-- Parameter declarations -->
     <parameters>
