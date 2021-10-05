@@ -14,4 +14,5 @@ Installing dependencies
 conda install -n msql2 -c bioconda nextflow
 conda activate msql2 
 pip install -r requirements.txt
+pip install xmltodict requests
 ```
